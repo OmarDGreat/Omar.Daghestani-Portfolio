@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Omar.Daghestani/static/css/main.f5e54d3f.css",
-    "main.js": "/Omar.Daghestani/static/js/main.726adf9d.js",
-    "index.html": "/Omar.Daghestani/index.html",
-    "main.f5e54d3f.css.map": "/Omar.Daghestani/static/css/main.f5e54d3f.css.map",
-    "main.726adf9d.js.map": "/Omar.Daghestani/static/js/main.726adf9d.js.map"
+    "main.css": "/Omar.Daghestani-Portfolio/static/css/main.f5e54d3f.css",
+    "main.js": "/Omar.Daghestani-Portfolio/static/js/main.726adf9d.js",
+    "index.html": "/Omar.Daghestani-Portfolio/index.html",
+    "main.f5e54d3f.css.map": "/Omar.Daghestani-Portfolio/static/css/main.f5e54d3f.css.map",
+    "main.726adf9d.js.map": "/Omar.Daghestani-Portfolio/static/js/main.726adf9d.js.map"
   },
   "entrypoints": [
     "static/css/main.f5e54d3f.css",
