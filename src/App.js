@@ -1,13 +1,13 @@
 import React from "react";
-import Portfolio from "./components/Portfolio";
 import Nav from "./components/Nav";
+import Pages from "./pages/Pages";
 import Footer from "./components/Footer";
 
 function App() {
   return (
     <div className="App">
       <Nav />
-      <Portfolio />
+      <Pages />
       <Footer />
     </div>
   );
