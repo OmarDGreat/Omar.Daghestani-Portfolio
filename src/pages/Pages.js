@@ -8,7 +8,7 @@ function Pages() {
   return (
     <BrowserRouter>
     <Routes>
-      <Route path="/" element={<Home />} />
+      <Route path="/omar.daghestani-portfolio" element={<Home />} />
       <Route path="/portfolio" element={<Portfolio />} /> 
       <Route path="/contact" element={<Contact />} />
     </Routes>
