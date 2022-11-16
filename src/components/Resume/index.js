@@ -2,7 +2,6 @@ import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faStar } from '@fortawesome/free-solid-svg-icons'
 
-
 function Resume() {
   return (
     <section class="page-section bg-primary text-white mb-0" id="resume">
