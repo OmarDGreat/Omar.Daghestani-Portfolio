@@ -1,5 +1,5 @@
 import React from "react";
-import ResumePDF from '../../assets/Omar-Daghestani-Resume.pdf';
+import ResumePDF from '../../assets/Omar-Daghestani-Resume.PDF';
 
 function Nav() {
 
