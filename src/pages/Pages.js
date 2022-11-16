@@ -9,9 +9,9 @@ function Pages() {
   return (
     
     <Routes>
-      <Route path="/Omar.Daghestani-Portfolio" element={<Home />} />
-      <Route path="/portfolio" element={<Portfolio />} /> 
-      <Route path="/contact" element={<Contact />} />
+      <Route path="/" element={<Home />} />
+      {/* <Route path="/portfolio" element={<Portfolio />} /> 
+      <Route path="/contact" element={<Contact />} /> */}
     </Routes>
     
   )
