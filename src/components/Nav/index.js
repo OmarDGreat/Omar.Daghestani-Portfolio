@@ -7,7 +7,7 @@ function Nav() {
 
       <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
             <div class="container">
-                <a class="navbar-brand" href="/omar.daghestani-portfolio">Omar Daghestani</a>
+                <a class="navbar-brand" href="/Omar.Daghestani-Portfolio">Omar Daghestani</a>
 
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
