@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Omar.Daghestani-Portfolio/static/css/main.93f92358.css",
-    "main.js": "/Omar.Daghestani-Portfolio/static/js/main.05b2cfe2.js",
-    "static/media/Omar-Daghestani-Resume.pdf": "/Omar.Daghestani-Portfolio/static/media/Omar-Daghestani-Resume.832a14bb79677dc26a29.pdf",
+    "main.js": "/Omar.Daghestani-Portfolio/static/js/main.f726b74f.js",
+    "static/media/Omar-Daghestani-Resume.PDF": "/Omar.Daghestani-Portfolio/static/media/Omar-Daghestani-Resume.832a14bb79677dc26a29.PDF",
     "static/media/1.png": "/Omar.Daghestani-Portfolio/static/media/1.4417330275f78faa31c3.png",
     "static/media/3.png": "/Omar.Daghestani-Portfolio/static/media/3.494a4a914b5471b41f3e.png",
     "static/media/4.png": "/Omar.Daghestani-Portfolio/static/media/4.a940b57aa7bab2eacc52.png",
@@ -11,10 +11,10 @@
     "static/media/2.png": "/Omar.Daghestani-Portfolio/static/media/2.6554473016d32b343f02.png",
     "index.html": "/Omar.Daghestani-Portfolio/index.html",
     "main.93f92358.css.map": "/Omar.Daghestani-Portfolio/static/css/main.93f92358.css.map",
-    "main.05b2cfe2.js.map": "/Omar.Daghestani-Portfolio/static/js/main.05b2cfe2.js.map"
+    "main.f726b74f.js.map": "/Omar.Daghestani-Portfolio/static/js/main.f726b74f.js.map"
   },
   "entrypoints": [
     "static/css/main.93f92358.css",
-    "static/js/main.05b2cfe2.js"
+    "static/js/main.f726b74f.js"
   ]
 }
