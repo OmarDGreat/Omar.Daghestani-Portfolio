@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.93f92358.css",
-    "main.js": "/static/js/main.d008a950.js",
+    "main.js": "/static/js/main.34b01225.js",
     "static/media/Omar-Daghestani-Resume.PDF": "/static/media/Omar-Daghestani-Resume.832a14bb79677dc26a29.PDF",
     "static/media/1.png": "/static/media/1.4417330275f78faa31c3.png",
     "static/media/3.png": "/static/media/3.494a4a914b5471b41f3e.png",
@@ -11,10 +11,10 @@
     "static/media/2.png": "/static/media/2.6554473016d32b343f02.png",
     "index.html": "/index.html",
     "main.93f92358.css.map": "/static/css/main.93f92358.css.map",
-    "main.d008a950.js.map": "/static/js/main.d008a950.js.map"
+    "main.34b01225.js.map": "/static/js/main.34b01225.js.map"
   },
   "entrypoints": [
     "static/css/main.93f92358.css",
-    "static/js/main.d008a950.js"
+    "static/js/main.34b01225.js"
   ]
 }
