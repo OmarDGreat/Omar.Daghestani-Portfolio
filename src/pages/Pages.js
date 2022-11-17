@@ -1,20 +1,17 @@
-import React from 'react';
-import Home from './Home'
-import Portfolio from '../components/Portfolio'
-import Contact from '../components/Contact'
-import { Route, Routes } from 'react-router-dom';
+import Home from "./Home";
+import Portfolio from "../components/Portfolio";
+import Contact from "../components/Contact";
 
-
-function Pages() {
-  return (
-    
-    <Routes>
-      <Route path="/" element={<Home />} />
-      {/* <Route path="/portfolio" element={<Portfolio />} /> 
-      <Route path="/contact" element={<Contact />} /> */}
-    </Routes>
-    
-  )
-}
+const Pages = (props) => {
+  const currentPage = props.currentPage;
+  switch (currentPage.name  ) {
+    case "home":
+      return <Home />;
+    case "portfolio":
+      return <Portfolio />;
+    case "contact":
+      return <Contact />;
+  }
+};
 
 export default Pages;

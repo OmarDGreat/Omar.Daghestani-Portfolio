@@ -1,8 +1,13 @@
 import React from "react";
 import ResumePDF from "../../assets/Omar-Daghestani-Resume.PDF";
-import {Link} from 'react-router-dom';
 
-function Nav() {
+
+function Nav(props) {
+
+  const {setcurrentPage} = props;
+
+
+
   return (
     <header className="flex-row px-1">
       <nav
@@ -10,7 +15,7 @@ function Nav() {
         id="mainNav"
       >
         <div class="container">
-          <a class="navbar-brand" href="/">
+          <a class="navbar-brand" onClick={() => setcurrentPage({name:"home"})}>
             {" "}
             Omar Daghestani
           </a>
@@ -18,9 +23,9 @@ function Nav() {
           <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ms-auto">
               <li class="nav-item mx-0 mx-lg-1">
-                <Link to="/portfolio" class="nav-link py-3 px-0 px-lg-3 rounded">
+                <a class="nav-link py-3 px-0 px-lg-3 rounded" onClick={() =>setcurrentPage({name:"portfolio"})}>
                   Portfolio
-                </Link>
+                </a>
               </li>
               <li class="nav-item mx-0 mx-lg-1">
                 <a
@@ -33,9 +38,9 @@ function Nav() {
                 </a>
               </li>
               <li class="nav-item mx-0 mx-lg-1">
-                <a class="nav-link py-3 px-0 px-lg-3 rounded" href="/contact">
+              <a class="nav-link py-3 px-0 px-lg-3 rounded" onClick={() =>setcurrentPage({name:"contact"})}>
                   Contact
-                </a>
+              </a>
               </li>
             </ul>
           </div>
